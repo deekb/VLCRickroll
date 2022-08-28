@@ -1,1 +1,1 @@
-vlc --no-interact --video-on-top --no-osd --no-mouse-events --no-keyboard-events --fullscreen https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4
+vlc --no-interact --video-on-top --no-osd --no-mouse-events --no-keyboard-events --fullscreen https://ia801602.us.archive.org/11/items/Rick_Astley_Never_Gonna_Give_You_Up/Rick_Astley_Never_Gonna_Give_You_Up.mp4 &> /dev/null
